@@ -4,3 +4,4 @@ pandas==2.2.2
 google-cloud-vision==3.7.4
 audio-recorder-streamlit==0.0.10
 pydub==0.25.1
+st-annotated-text==4.0.1
